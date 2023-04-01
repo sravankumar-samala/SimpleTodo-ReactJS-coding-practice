@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.del-button {
+  padding: 0.7em 1.2em;
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  border-radius: 7px;
+}
